@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##About our application
+## About our application
 Pawradise is a cat community app that allows users to adopt cats, find trusted sitters, or offer pet-sitting services. The app begins with a login or signup page where users can choose their role as either an Owner or a Sitter. Once logged in, users are directed to a personalized homepage that provides access to key features such as cat adoption listings, sitter search, helpful articles on cat care, and profile or booking management. Owners can browse the adoption page to view available cats, apply filters, and submit interest in adopting.
